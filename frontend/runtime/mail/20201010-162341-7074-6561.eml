@@ -1,0 +1,55 @@
+Message-ID: <8f038bac1a96c4d3063a657259b1907b@localhost>
+Date: Sat, 10 Oct 2020 16:23:41 +0200
+Subject: Password reset for Partisipasi Public
+From: Partisipasi Public robot <support@example.com>
+To: muchtarsani@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1602339821_766dac28fe0821974bb1a93d03eb31f3_=_"
+
+
+--_=_swift_1602339821_766dac28fe0821974bb1a93d03eb31f3_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello admin,
+
+Follow the link below to reset your password:
+
+htt=
+p://localhost/jdih/site/reset-password?token=3DLKo6qShqg3ik1A_8lVzDm9BYM1iK=
+oD_q_1602339821
+
+--_=_swift_1602339821_766dac28fe0821974bb1a93d03eb31f3_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"password-reset">
+    <p>Hello admin,</p>
+
+    <p>Fo=
+llow the link below to reset your password:</p>
+
+    <p><a href=3D"http=
+://localhost/jdih/site/reset-password?token=3DLKo6qShqg3ik1A_8lVzDm9BYM1iKo=
+D_q_1602339821">http://localhost/jdih/site/reset-password?token=3DLKo6qShqg=
+3ik1A_8lVzDm9BYM1iKoD_q_1602339821</a></p>
+</div>
+    </body>
+</html>=
+
+
+
+--_=_swift_1602339821_766dac28fe0821974bb1a93d03eb31f3_=_--
