@@ -39,7 +39,7 @@ AppAsset::register($this);
     <div class="main-wrapper">
         <!-- start header section -->
         <header>
-            <div class="navbar-default" style="background: linear-gradient(to bottom, #ff6600 0%, #ff9900 44%)">
+        <div class="navbar-default" style="background: linear-gradient(to bottom, #29B6F6 0%, #29B6F6 0%)">
                 <!-- start top search -->
                 <!--                 <div class="top-search bg-theme" style="display: block;">
                     <div class="container">
@@ -57,7 +57,7 @@ AppAsset::register($this);
 
                 <!-- end top search -->
 
-                <div class="container" style="background: linear-gradient(to bottom, #ff6600 0%, #ff9900 44%)">
+                <div class="container" style="background: linear-gradient(to bottom, #29B6F6 0%, #29B6F6 0%); color: #FFFFFF">
                     <div class="row align-items-center">
                         <div class="col-md-12">
                             <div class="menu_area">
@@ -65,7 +65,7 @@ AppAsset::register($this);
 
                                     <div class="navbar-header navbar-header-custom">
                                         <!-- start logo -->
-                                        <?= Html::a(Html::img('@web/frontend/assets/img/logos/dprdpbgfix.png', ['id' => 'logo']), ['/'], ['class' => 'navbar-brand width-200px sm-width-180px xs-width-150px']); ?>
+                                        <?= Html::a(Html::img('@web/frontend/assets/img/logos/logo-default.png', ['id' => 'logo']), ['/'], ['class' => 'navbar-brand width-200px sm-width-180px xs-width-150px']); ?>
                                         <!-- end logo -->
                                     </div>
 

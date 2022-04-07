@@ -64,7 +64,8 @@
     transform: rotate(360deg); } }
 /* theme color and basic options */
 a:hover, a:active {
-  color: #2196f3;
+  /* color: #2196f3; */
+  color: #ffffff;
   text-decoration: none; }
 
 .bg-theme {
@@ -273,7 +274,9 @@ input[type=checkbox], input[type=radio] {
     Top header and Navigation
 ====================================== */
 .navbar-nav li.current > a, .navbar-nav > li.active > a {
-  color: #2196f3; }
+  /* color: #2196f3; } */
+  color: #ffffff;
+}
 
 .navbar > ul > li.current > a:after {
   border-color: transparent #2196f3 #2196f3 transparent; }
@@ -1368,7 +1371,8 @@ ul.countdown li {
     margin-right: 0; }
   .social-icon-style li a {
     font-size: 14px;
-    border: 1px solid #6a6a6a;
+    /* border: 1px solid #6a6a6a; */
+    border: 1px solid #ffffff;
     width: 35px;
     height: 35px;
     border-radius: 35px;

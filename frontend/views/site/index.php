@@ -5,19 +5,18 @@ use yii\helpers\Url;
 use frontend\models\Dokumen;
 ?>
 <!-- start banner -->
-<section class="bg-img screen-height cover-background line-banner" data-overlay-dark="6" data-background="frontend/assets/img/banner/ok.jpg">
+<section class="bg-img screen-height cover-background line-banner" data-overlay-dark="6" data-background="frontend/assets/img/banner/pendopo.jpeg">
 
     <!-- start banner text -->
     <div class="container position-relative h-100">
         <div class="header-text display-table h-100 z-index-1 width-100">
             <div class="display-table-cell vertical-align-middle text-center">
-
-                <p class="font-size18 xs-font-size16 text-white letter-spacing-1 margin-15px-bottom">JARINGAN DOKUMENTASI DAN INFORMASI HUKUM</p>
+                <!-- <p class="font-size36 xs-font-size16 text-white letter-spacing-1 margin-15px-bottom"></p> -->
 
                 <!-- start banner headline text -->
-                <h1 class="cd-headline slide">
-                  DEWAN PERWAKILAN RAKYAT DAERAH <BR>
-                  KABUPATEN PURBALINGGA
+                <h1 class="cd-headline slide margin-15px-top">
+                    JARINGAN DOKUMENTASI DAN INFORMASI HUKUM<br>
+					KABUPATEN PURBALINGGA<br>
                 </h1>
                 <!-- end banner headline text -->
 

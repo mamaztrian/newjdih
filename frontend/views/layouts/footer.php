@@ -10,7 +10,7 @@ use yii\helpers\Html;
                 <div class="col-lg-5 col-sm-6 sm-margin-40px-bottom">
 
                     <!-- start logo -->
-                    <?= Html::img('@web/frontend/assets/img/logos/dprdpbgfix.png', ['class' => 'width-50 margin-10px-bottom xs-margin-5px-bottom']); ?>
+                    <?= Html::img('@web/frontend/assets/img/logos/logo-kecil.png', ['class' => 'width-50 margin-10px-bottom xs-margin-5px-bottom']); ?>
 
                     <!-- end logo -->
                     <p>JDIHN adalah wadah pendayagunaan bersama atas dokumen hukum secara tertib, terpadu, dan berkesinambungan, serta merupakan sarana pemberian pelayanan informasi hukum secara lengkap, akurat, mudah dan cepat. Keberadaan sebuah wadah yang dapat menyajikan informasi hukum dan data produk hukum yang berlaku yang selalu diperbarui menjadi sesuatu yang sangat dibutuhkan.</p>
@@ -21,16 +21,16 @@ use yii\helpers\Html;
                     <ul class="list-style-1 no-margin">
                         <li>
                             <span class="d-inline-block vertical-align-top font-size18"><i class="ti-location-pin text-theme-color"></i></span>
-                            <span class="d-inline-block width-65 sm-width-85 vertical-align-top padding-10px-left">Perpustakaan DPRD Kabupaten Purbalingga</span>
-			    <span class="d-inline-block width-65 sm-width-85 vertical-align-top padding-35px-left">Jl. Onje No. 2A Purbalingga 53311</span>
+                            <span class="d-inline-block width-65 sm-width-85 vertical-align-top padding-10px-left">Perpustakaan Bagian Hukum</span>
+			    <span class="d-inline-block width-65 sm-width-85 vertical-align-top padding-35px-left">Jl. Onje No.1B, Purbalingga</span>
                         </li>
                         <li>
                             <span class="d-inline-block vertical-align-top font-size18"><i class="ti-mobile text-theme-color"></i></span>
-                            <span class="d-inline-block width-65 sm-width-85 vertical-align-top padding-10px-left">(0281)891058</span>
+                            <span class="d-inline-block width-65 sm-width-85 vertical-align-top padding-10px-left">Ganti nomor instansi</span>
                         </li>
                         <li>
                             <span class="d-inline-block vertical-align-top font-size18"><i class="ti-email text-theme-color"></i></span>
-                            <span class="d-inline-block width-65 sm-width-85 vertical-align-top padding-10px-left">dprd.purbalinggakab@gmail.com</span>
+                            <span class="d-inline-block width-65 sm-width-85 vertical-align-top padding-10px-left">Ganti email instansi</span>
                         </li>
                     </ul>
                 </div>
@@ -49,7 +49,7 @@ use yii\helpers\Html;
         </div>
     </div>
 
-    <div class="footer-bar xs-padding-15px-tb" style="background: linear-gradient(to bottom, #ff9900 0%, #ff6600 44%)">
+    <div class="footer-bar xs-padding-15px-tb" style="background: linear-gradient(to bottom, #29B6F6 0%, #29B6F6 0%)">
         <div class="container">
             <div class="float-right xs-width-100 text-center xs-margin-5px-bottom">
                 <ul class="social-icon-style no-margin">
@@ -65,7 +65,7 @@ use yii\helpers\Html;
                 </ul>
             </div>
             <div class="float-left xs-width-100 text-center">
-                <p class="text-medium-black font-weight-600 margin-5px-top xs-no-margin-top">&copy; 2020 All Rights Reserved by <a class="text-black" href="https://bphn.go.id">BPHN</a></p>
+                <p class="text-medium-black font-weight-600 margin-5px-top xs-no-margin-top">&copy; 2022 Bagian Hukum Setda Kabupaten Purbalingga</p>
             </div>
         </div>
     </div>
